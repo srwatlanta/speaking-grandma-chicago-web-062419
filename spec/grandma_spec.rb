@@ -1,5 +1,3 @@
-require_relative ./spec_helper.#!/usr/bin/env ruby -wKU
-
 
 describe '#speak_to_grandma' do
   it 'responds with I LOVE YOU TOO PUMPKIN! if you say I LOVE YOU GRANDMA!' do
